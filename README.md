@@ -104,13 +104,6 @@ Model used:
 
 ---
 
-## Results
-
-<img width="759" height="585" alt="image" src="https://github.com/user-attachments/assets/b5e2b8c2-7ec3-46a6-9b33-0be92d13e2fb" />
-<img width="752" height="589" alt="image" src="https://github.com/user-attachments/assets/b625792c-ccfb-4cac-9c77-5affd5a1c243" />
-
----
-
 ## UI Preview
 
 ### Web Application Interface
@@ -118,6 +111,12 @@ Model used:
 <img width="1390" height="896" alt="image" src="https://github.com/user-attachments/assets/e8b1b703-ccf3-499d-851d-a292e911950f" />
 <img width="781" height="933" alt="image" src="https://github.com/user-attachments/assets/33faca33-065b-49bc-abbf-20d4d731137e" />
 
+---
+
+## Results
+
+<img width="759" height="585" alt="image" src="https://github.com/user-attachments/assets/b5e2b8c2-7ec3-46a6-9b33-0be92d13e2fb" />
+<img width="752" height="589" alt="image" src="https://github.com/user-attachments/assets/b625792c-ccfb-4cac-9c77-5affd5a1c243" />
 
 ---
 
